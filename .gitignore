@@ -1,0 +1,66 @@
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+.cache/
+.vite/
+.parcel-cache/
+/.pnp.js
+/.pnp/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+/.idea/
+.vscode/
+.history/
+coverage/
+/.turbo/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# logs
+logs/
+*.log
+
+# lockfiles (optional, include if you prefer to track them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production
+build/
+
+# dotenv
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+.DS_Store
+.vscode/
+.idea/
+/.cache
+coverage/
+dist/
+
+# logs
+*.log
+
+# OS
+Thumbs.db
+
+# Local env
+.local
